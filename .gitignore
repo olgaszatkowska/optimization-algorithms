@@ -162,3 +162,5 @@ cython_debug/
 connection_graph.csv
 
 .atsp
+rbg443.atsp
+ft70.atsp
